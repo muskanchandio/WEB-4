@@ -1,0 +1,405 @@
+*{
+    margin: 0%;
+    padding:0%}
+    a{
+        text-align: center;
+        text-decoration: none;
+        color:rgb(92, 92, 92);
+        font-size: 17px;
+        font-family: 'Segoe UI', Arial , sans-serif;
+        
+      
+         font-weight: 470;
+    }
+    a:hover{
+        background-color: rgb(180, 179, 179);
+        color: black;
+        
+    }
+    .n1{
+        padding: 8px 16px;
+        float: left;
+    }
+    .nav{
+background-image:url(parallax1.jpg);
+height: 400px;
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment:scroll;
+background-position: center;
+opacity: 0.75;
+text-align: center;
+    }
+    
+    
+        
+    
+    #p1{
+        margin-top: 160px;
+       
+        font-family: 'Segoe UI', Arial , sans-serif;
+        font-size: 27px;
+        letter-spacing: 8px;
+        color: white;
+        background-color: black;
+        padding: 8px 16px;
+        margin-right: 570px;
+        margin-left: 570px;
+    
+    }
+    .sec1{
+       margin-top: 80px;
+       margin-left: 270px;
+       margin-right: 270px;
+       
+        
+    }
+    #p2{
+        text-align: center;
+        font-size: 25px;
+        font-family: "Lato", sans-serif;
+
+       color: grey;
+    }
+    #p3{
+        text-align: center;
+        color: grey;
+        font-style: italic;
+        font-family: 'Segoe UI', Arial , sans-serif;
+        margin-top: 20px;
+       
+    }
+    #p4{
+        text-align: inherit;
+       color: grey;
+      font-family: 'Segoe UI', Arial , sans-serif;
+       letter-spacing: 0px;
+        font-size: 15px;
+        margin-top: 20px;
+        margin-block-start: 1em;
+        margin-block-end: 1em;
+        margin-inline-start: 0px;
+        margin-inline-end: 0px;
+        unicode-bidi: isolate;
+        line-height: 1.8;
+    }
+       
+.sec2{
+    display: flex;
+    margin-left: 200px;
+    margin-right: 250px;
+    margin-top: 50px;
+}
+.left{
+    flex-basis: 50%;
+}
+.right{
+    flex-basis: 50%;
+    margin-left: 35px;
+    margin-right: 100px;
+}
+img{
+     width: 425px;
+     margin-top: 40px;
+     margin-left: 90px;
+  opacity: 0.6;
+}
+#p5{
+    text-align: center;
+    font-size: 18px;
+    
+    font-family: "Lato", sans-serif;
+
+    color: grey;
+    margin-top: 5px;
+}
+#p6{
+   text-align: inherit;
+          color: grey;
+          font-family: "Lato", sans-serif;
+      font-size: 15px;
+    margin-top: 0%;
+      margin-block-start: 1em;
+     margin-block-end: 1em;
+     margin-inline-start: 0px;
+     margin-inline-end: 0px;
+     unicode-bidi: isolate;
+     line-height: 1.8;
+     
+     
+     }
+     .sec3{
+        width: 980px;
+        margin-left: 300px;
+     }
+     #p7{
+        font-size: 18px;
+        color: grey;
+        text-align: center;
+        font-family: "Lato", sans-serif;
+        margin-top: 40px;
+        
+
+     }
+
+     #p8{
+        font-family: "Lato", sans-serif;
+        letter-spacing: 10px;
+        color: grey;
+        margin-top: 20px;
+     }
+     .in{
+        background-color: lightgrey;
+        
+     }
+     #p9{
+        background-color: rgb(83, 83, 83);
+        width: 90%;
+        padding: 8px 8px;
+        text-align: center;
+        margin-top: 15px;
+        color:white;
+     }
+     #p10{
+        
+        background-color: rgb(83, 83, 83);
+        width: 85%;
+        padding: 8px 8px;
+        text-align: center;
+        margin-top: 15px;
+        color:white;
+
+     }
+     #p11{
+        background-color: rgb(83, 83, 83);
+        width: 75%;
+        padding: 8px 8px;
+        text-align: center;
+        margin-top: 15px;
+        color:white;
+     }
+     .sec4{
+        background-color:  rgb(83, 83, 83) ;
+        height: 120px;
+        display: flex;
+        margin-top: 70px;
+     }
+     
+     .n5{
+        text-align: center;
+        flex-basis: 25%;
+        margin-top: 35px;
+
+     }
+     
+     .n2{
+        text-align: center;
+        flex-basis: 25%;
+        margin-top: 35px;
+
+     }
+     
+     .n3{
+        text-align: center;
+        flex-basis: 25%;
+        margin-top: 35px;
+
+     }
+     
+     .n4{
+        text-align: center;
+        flex-basis: 25%;
+        margin-top: 35px;
+
+     }
+     
+     #p12{
+        font-size: 30px;
+        color: white;
+     }
+     #p13{
+        font-family: "Lato", sans-serif;
+    
+        font-size: 15px;
+        color: white;
+        margin-top: 5px;
+        
+     }
+     .sec5{
+        background-image: url(parallax2.jpg);
+     background-repeat: no-repeat;
+      background-size: cover;
+    background-attachment:scroll;
+     background-position: center;
+        opacity: 0.75;
+       text-align: center;
+       height: 400px;
+       margin-bottom: 70px;
+     }
+     #p14{
+        font-size: 35px;
+        font-family: "Lato", sans-serif;
+        color: white;
+        margin-top: 170px;
+        letter-spacing: 8px;
+     }
+     #p15{
+        text-align: center;
+        font-size: 15px;
+        font-family: "Lato", sans-serif;
+         margin-top: 10px;
+       color: grey;
+       font-style: italic;
+     }
+.team1{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 300px;
+    margin-right: 300px;
+   
+}
+#u1{
+  width: 200px;
+    padding: 0%;
+  opacity: 1;
+  flex-basis: 25%;
+  margin-left: 15px;
+  
+ 
+  
+}
+.team2{
+    display: flex;
+    
+    margin-left: 300px;
+    margin-right: 300px;
+}
+button{
+padding: 10px;
+font-size: 16px;
+border: none;
+margin-left: 45%;
+margin-top: 70px;
+}
+button:hover{
+   background-color: rgb(146, 146, 146);
+}
+.sec7{
+   background-image: url(parallax3.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 400px;
+   background-attachment: scroll;
+   background-position: center;
+   text-align: center;
+   opacity: 0.6;
+   margin-top: 70px;
+
+
+}
+#p17{
+   margin-top: 70px;
+   color: gray;
+   font-size: 23px;
+   text-align: center;
+   font-family: "Lato", sans-serif;
+   
+   
+}
+#p18{
+   font-family: "Lato", sans-serif;
+   color: grey;
+   font-style: italic;
+   font-size: 15px;
+   text-align: center;
+   margin-top:20px ;
+}
+ .contact{
+   display: flex;
+ }
+ .box1{
+   flex-basis: 50%;
+   
+ }
+ .box2{
+   flex-basis: 50%;
+   margin-top: 50px;
+ }
+#y1{
+   width: 300px;
+   opacity: 1;
+   margin-left: 450px;
+   
+}
+#p19{
+  
+   color: grey;
+   font-size: 20px;
+   line-height: 1;
+ margin-top: 15px;  
+ letter-spacing: 1px; 
+ font-weight: none;
+
+
+
+  
+}
+#p20{
+    color: grey;
+    font-family: "Lato", sans-serif;
+    letter-spacing: 0px;
+    margin-top: 35px
+    
+
+}
+.input{
+   display: flex;
+}
+#j2{
+   width: 63%;
+   border: 1px solid rgb(173, 173, 173);
+   padding: 8px;
+   font-size: 14px;
+   margin-top: 10px;
+   margin-left: 8px;
+}
+#j1{
+   width: 30%;
+   border: 1px solid rgb(173, 173, 173);
+   padding: 8px;
+   font-size: 14px;
+   margin-top: 10px;
+   margin-left: 8px;
+}
+#e1{
+   font-size: 18px;
+   background-color: black;
+   padding: 10px;
+   color: white;
+   font-family: "Lato", sans-serif;
+   margin-top: 10px;
+}
+
+.last{
+   background-color: rgb(88, 87, 87);
+   height: 150px;
+   display: flex;
+   margin-top: 150px;
+}
+.r1{
+   text-align: end;
+   color: white;
+   flex-basis: 50%;
+   margin-top: 73px;
+}
+.r2{
+   flex-basis: 50%;
+
+   margin-top: 70px;
+}
+#w1{
+ 
+   color: white;
+   text-decoration: underline;
+
+}
